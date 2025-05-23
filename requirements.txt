@@ -1,0 +1,21 @@
+# Core dependencies for CatSim.py
+python-dotenv
+numpy
+tqdm
+langchain-openai
+
+# Core dependencies for DownLDom.py
+aiohttp
+orjson
+aiofiles
+pandas
+certifi
+aiodns
+
+# Core dependencies for LlmVerif.py
+openai
+tiktoken
+
+# Common utilities (used across multiple files)
+# python-dotenv - already listed above
+# tqdm - already listed above
