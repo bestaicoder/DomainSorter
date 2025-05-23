@@ -1,6 +1,10 @@
 # DomainSorter
 
 ## Как запустить
+### Клонирование репозитория
+```bash
+git clone https://github.com/bestaicoder/DomainSorter.git
+```
 
 ### Предварительные требования
 1. Установите переменные окружения:
